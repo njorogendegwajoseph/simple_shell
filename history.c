@@ -1,4 +1,4 @@
-nclude "shell.h"
+#include "shell.h"
 
 /**
  * get_history_file - Funtion that gets the history file
